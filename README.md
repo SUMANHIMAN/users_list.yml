@@ -1,5 +1,3 @@
-# users_list.yml
-
 users:
 - name: sam
   job: developer
